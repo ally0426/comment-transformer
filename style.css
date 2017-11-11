@@ -1,0 +1,33 @@
+body {
+	background-color: black;
+	color: white;
+}
+span:nth-child(1) {
+	text-transform: uppercase;
+}
+.firstLetter {
+	font-size: 1.6em;
+}
+.italics {
+	font-style: italic;
+}
+div {
+	text-align: center;
+}
+textarea {
+	height: 90px;
+	width: 250px;
+	margin: 30px 0;
+}
+code {
+	margin: 30px 0;
+}
+#strawberries {
+	position: absolute;
+	bottom: 30px;
+	right: 30px;
+}
+#helmet {
+	margin:30px 10px;
+	height:100px;
+}
