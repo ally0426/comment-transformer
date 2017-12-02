@@ -21,6 +21,7 @@ textarea {
 }
 code {
 	margin: 30px 0;
+	font-weight: 700;
 }
 #strawberries {
 	position: absolute;
